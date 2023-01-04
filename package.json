@@ -1,0 +1,26 @@
+{
+  "name": "npm-pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.1",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsdom": "^20.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "pdf-creator-node": "^2.3.5",
+    "pdf-merger-js": "^4.2.0",
+    "pdf-parse": "^1.1.1",
+    "validator": "^13.7.0"
+  }
+}
